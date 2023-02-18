@@ -1,9 +1,9 @@
 
-Hi ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoutube-logo-subscribe-gif-17177876&psig=AOvVaw1vdIa9_PLMftdtcAfDLAQr&ust=1676833836256000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjugfvin_0CFQAAAAAdAAAAABAE)My name is GG
+Hi ![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoutube-logo-subscribe-gif-17177876&psig=AOvVaw1vdIa9_PLMftdtcAfDLAQr&ust=1676833836256000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjugfvin_0CFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoutube-logo-subscribe-gif-14522737&psig=AOvVaw3KX72531yv_dfuBwZHjFAH&ust=1676834349012000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCUue_kn_0CFQAAAAAdAAAAABAo))My name is GG
 Entrepreneur | Designer | Developer
 -----------------------------------
 
-*   ✉️  You can contact me at [Phakhin.kanch@gmail.com](mailto:Phakhin.kanch@gmail.com)### Skills 
+*   ✉️  You can contact me at [Phakhin.kanch@gmail.com](mailto:Phakhin.kanch@gmail.com)
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
