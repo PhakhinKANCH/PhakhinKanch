@@ -1,5 +1,3 @@
-
-Hi ![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoutube-logo-subscribe-gif-17177876&psig=AOvVaw1vdIa9_PLMftdtcAfDLAQr&ust=1676833836256000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjugfvin_0CFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoutube-logo-subscribe-gif-14522737&psig=AOvVaw3KX72531yv_dfuBwZHjFAH&ust=1676834349012000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCUue_kn_0CFQAAAAAdAAAAABAo))My name is GG
 Entrepreneur | Designer | Developer
 -----------------------------------
 
